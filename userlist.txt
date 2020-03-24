@@ -1,1 +1,2 @@
 NAME:PASS:HWID
+Noscope:Noscope:15f676d5-a0c8-4c74-80a0-524dd2dde74e
